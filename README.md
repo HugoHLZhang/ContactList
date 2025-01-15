@@ -7,38 +7,28 @@ A simple CRUD application built with the MERN stack.
 - MERN: MongoDB, Express.js, React, Node.js.
 ## Installation
 
-Download [Node.js](https://nodejs.org/en/download). Run the following commands :
+1. Prerequisite : Install [Node.js](https://nodejs.org/en/download).
 
-Clone this repositiory :
+2. Clone the repositiory :
 
 ```bash
 git clone https://github.com/HugoHLZhang/ContactList.git
-```
-
-Enter "ContactList" folder :
-
-```bash
 cd ContactList
 ```
 
-Run the backend :
+3. Backend Setup :
 
 ```bash
+cd ContactList
 cd server
 npm install
 npm start
 ```
 
-Go back to "ContactList" folder :
+4. Frontend Setup :
 
 ```bash
-cd ..
-```
-
-Run the frontend :
-
-```bash
-cd client
+cd ../client
 npm install
 npm run dev
 ```
