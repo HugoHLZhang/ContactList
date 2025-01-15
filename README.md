@@ -24,9 +24,9 @@ cd ContactList
 Run the backend :
 
 ```bash
-  cd server
-  npm install
-  npm start
+cd server
+npm install
+npm start
 ```
 
 Go back to "ContactList" folder :
@@ -38,7 +38,7 @@ cd ..
 Run the frontend :
 
 ```bash
-  cd client
-  npm install
-  npm run dev
+cd client
+npm install
+npm run dev
 ```
