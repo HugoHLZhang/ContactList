@@ -24,10 +24,12 @@ npm install
 npm start
 ```
 
-4. Frontend Setup :
+4. Open another terminal in ContactList folder.
+
+5. Frontend Setup :
 
 ```bash
-cd ../client
+cd client
 npm install
 npm run dev
 ```
