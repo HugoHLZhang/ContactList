@@ -9,18 +9,36 @@ A simple CRUD application built with the MERN stack.
 
 Download [Node.js](https://nodejs.org/en/download). Run the following commands :
 
-for the backend :
+Clone this repositiory :
 
 ```bash
-  cd backend
+git clone https://github.com/HugoHLZhang/ContactList.git
+```
+
+Enter "ContactList" folder :
+
+```bash
+cd ContactList
+```
+
+Run the backend :
+
+```bash
+  cd server
   npm install
   npm start
 ```
 
-for the frontend :
+Go back to "ContactList" folder :
 
 ```bash
-  cd frontend
+cd ..
+```
+
+Run the frontend :
+
+```bash
+  cd client
   npm install
   npm run dev
 ```
