@@ -19,8 +19,7 @@ cd ContactList
 3. Backend Setup :
 
 ```bash
-cd ContactList
-cd server
+cd ContactList/server
 npm install
 npm start
 ```
